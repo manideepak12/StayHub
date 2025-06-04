@@ -237,7 +237,7 @@ StayHub/
 ---
 
 ### 👨‍🎓 **Student Dashboard**
-![Student Dashboard](https://res.cloudinary.com/duhabjmtf/image/upload/v1749065936/Screenshot_2025-06-05_010731_deoxdw.png)
+![Student Dashboard](https://res.cloudinary.com/duhabjmtf/image/upload/v1749066437/Screenshot_2025-06-05_010731_pbnqsm.png)
 *Intuitive student interface providing easy access to room details, payments, complaints, and mess information*
 
 ---
@@ -249,7 +249,7 @@ StayHub/
 ---
 
 ### 💳 **Razorpay Payment Integration**
-![Razorpay Integration](https://res.cloudinary.com/duhabjmtf/image/upload/v1749066027/Screenshot_2025-06-05_011010_uen0ii.png)
+![Razorpay Integration](https://res.cloudinary.com/duhabjmtf/image/upload/v1749066295/Screenshot_2025-06-05_011255_baupm1.png)
 *Seamless and secure payment processing with Razorpay UPI integration for hassle-free fee management*
 
 </div>
