@@ -226,23 +226,35 @@ StayHub/
 - `POST /api/complaints` - Create complaint
 - `PUT /api/complaints/:id` - Update complaint status
 
-## 🎨 Screenshots
+## 🎨 Application Screenshots
 
 <div align="center">
 
-### 🏠 Student Dashboard
-*Clean and intuitive interface for students to manage their hostel experience*
+### 🏠 **Home Page**
+![StayHub Home Page](https://res.cloudinary.com/duhabjmtf/image/upload/v1749065608/Screenshot_2025-06-05_010049_pg90j9.png)
+*Modern and welcoming landing page showcasing StayHub's comprehensive hostel management solution*
 
-### 👨‍💼 Admin Panel
-*Comprehensive admin dashboard with powerful management tools*
+---
 
-### 💳 Payment Integration
-*Seamless payment experience with Razorpay integration*
+### 👨‍🎓 **Student Dashboard**
+![Student Dashboard](https://res.cloudinary.com/duhabjmtf/image/upload/v1749065936/Screenshot_2025-06-05_010731_deoxdw.png)
+*Intuitive student interface providing easy access to room details, payments, complaints, and mess information*
 
-### 📱 Mobile Responsive
-*Fully responsive design that works perfectly on all devices*
+---
+
+### 👨‍💼 **Admin Dashboard**
+![Admin Dashboard](https://res.cloudinary.com/duhabjmtf/image/upload/v1749065782/Screenshot_2025-06-05_010524_fel0fp.png)
+*Comprehensive administrative panel with powerful tools for managing students, rooms, payments, and hostel operations*
+
+---
+
+### 💳 **Razorpay Payment Integration**
+![Razorpay Integration](https://res.cloudinary.com/duhabjmtf/image/upload/v1749066027/Screenshot_2025-06-05_011010_uen0ii.png)
+*Seamless and secure payment processing with Razorpay UPI integration for hassle-free fee management*
 
 </div>
+
+> **🚀 Experience the live application and see these features in action!**
 
 ## 🚧 Roadmap
 
@@ -277,11 +289,27 @@ We welcome contributions from the community! Here's how you can help:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
+## 👨‍💻 About the Developer
 
-**Manideepak**
-- GitHub: [@manideepak12](https://github.com/manideepak12)
-- LinkedIn: [Connect with me](https://linkedin.com/in/your-profile)
+<div align="center">
+
+**Manideepak Reddy Bodigam**
+
+*Full-Stack Developer & Software Engineer*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Work-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-manideepak12s-projects.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manideepak-reddy-bodigam-/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manideepak12)
+
+---
+
+*"Passionate about creating innovative solutions that solve real-world problems through technology"*
+
+🌟 **Expertise**: Full-Stack Development | React.js | Node.js | Database Design  
+🎯 **Focus**: Building scalable web applications with exceptional user experiences  
+🚀 **Mission**: Transforming ideas into powerful digital solutions
+
+</div>
 
 ## 🙏 Acknowledgments
 
@@ -290,14 +318,23 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Razorpay for providing seamless payment integration
 - React.js, Node.js, and MySQL communities for excellent documentation
 
-## 📞 Support
+## 📞 Support & Contact
 
-If you encounter any issues or have questions:
+If you encounter any issues or have questions about StayHub:
 
+<div align="center">
+
+### 🔗 **Quick Links**
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-FF6B6B?style=flat-square)](https://my-portfolio-manideepak12s-projects.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0077B5?style=flat-square)](https://www.linkedin.com/in/manideepak-reddy-bodigam-/)
+
+### 📋 **Support Options**
 - 🐛 **Bug Reports**: [Create an issue](https://github.com/manideepak12/StayHub/issues)
 - 💡 **Feature Requests**: [Request a feature](https://github.com/manideepak12/StayHub/issues)
-- 📧 **Email**: your.email@example.com
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/manideepak12/StayHub/discussions)
+- 📧 **Direct Contact**: Connect via LinkedIn for professional inquiries
+
+</div>
 
 ---
 
